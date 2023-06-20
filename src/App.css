@@ -1,0 +1,15 @@
+.container {
+    width: 100%;
+    max-width: 1440px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.slide-img {
+    height: 450px;
+    width: 90%;
+    object-fit: cover;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px #000000;
+}
+
